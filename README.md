@@ -1,1 +1,3 @@
-# article-5
+Novel material switches between electrically conducting and insulating states
+
+ Tiny devices made of DNA detect cancer with fewer false alarms. Duke University researchers fashioned the simple circuits from interacting strands of synthetic DNA that are tens of thousands of times finer than a human hair. Utside of a cell and analyzing it for proteins found in greater numbers on some cell types than others. Researchers hope their work might improve diagnosis, and give cancer therapies better aim. Occur when mixtures of cells sport one or more of the proteins a DNA circuit is designed to screen for, but no single cell type has them all. For every cancer cell that is correctly detected using current methods, some fraction of healthy cells also get mislabeled as possibly cancerous when they're not.
